@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b-1782975460313",
+    "room": "Board Room",
+    "title": "meeting",
+    "organizer": "rudra",
+    "role": "Final Year Student",
+    "date": "2026-07-02",
+    "slots": [
+      "01:00 PM"
+    ],
+    "color": "slate"
+  }
+]

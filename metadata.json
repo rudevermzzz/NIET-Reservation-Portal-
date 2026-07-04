@@ -1,0 +1,6 @@
+{
+  "name": "Incubation Reservation Portal",
+  "description": "A professionally polished reservation portal for the NIET TBI incubation space, featuring real-time schedule grids, active room filters, and an admin approval workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
